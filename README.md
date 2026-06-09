@@ -1,2 +1,2 @@
 # datatalks-llm-zoomcamp-2026
-LLM Zoomcamp: Free LLM Engineering Course and Certification
+Repository for [DataTalk.Club LLM Zoomcamp](https://datatalks.club/blog/llm-zoomcamp.html) exercises.
